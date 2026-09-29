@@ -1,0 +1,10 @@
+{
+  "case": "demo-care-000927",
+  "fictional_brand": "ひなたの庭 / HINATA NO NIWA",
+  "industry": "介護・福祉",
+  "base": "care-yamatoen-v1.1",
+  "base_version": "yamatoen-source-study-local-v1.1",
+  "base_sha256": "24b1edbf0c99ebd156310ca35bc045936f5fa2d9fcb9ffe2c8dc6e0fb857c1bf",
+  "notice": "架空の企業情報を使用したデザインサンプルです",
+  "contact": "送信・予約・応募機能はありません"
+}

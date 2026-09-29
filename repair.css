@@ -1,0 +1,3 @@
+/* v1.1: supporting copy uses fluid readable sizes, with matching card/header spacing. */
+.brand small,.brand em{font-size:clamp(13px,calc(10px + .45vw),22px);line-height:1.6}.brand em{letter-spacing:.12em}
+@media(max-width:700px){.brand small,.brand em{font-size:clamp(13px,calc(11px + .55vw),16px);line-height:1.65}.brand small{letter-spacing:0}.brand em{letter-spacing:.08em}.hero-note,.scroll-cue{font-size:clamp(13px,calc(11px + .6vw),16px);line-height:1.7}.hero-note{left:24%;right:6%}.recruit-tile span{font-size:clamp(13px,calc(11px + .6vw),16px);line-height:1.5}.recruit-tile{padding-top:18px}.recruit-tile .ill{height:58%}}
